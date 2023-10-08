@@ -1,0 +1,34 @@
+Index of adult
+
+02 Dec 1996      140 Index
+10 Aug 1996  3974305 adult.data
+10 Aug 1996     4267 adult.names
+10 Aug 1996  2003153 adult.test
+
+age：每个样本的工作年龄，为数值型变量；
+
+workclass：工作性质，这里有私人的、当地政府等，为字符型变量；
+
+fnlwgt：是在一个州内，dataset的一个观测代表的人数；
+
+education：每个样本的教育程度；
+
+marital-status：每个样本的婚姻状况，包括未婚、已婚；
+
+occupation：表示每个样本从事的职业；
+
+relationship：每个样本的家庭成员；
+
+race：样本的种族，有黑人和白人；
+
+gender：样本的性别；
+
+capital-gain：样本的税收；
+
+capital-loss：样本的资本损失；
+
+hours-per-week：样本每周工作时长；
+
+native-country：表示样本来自哪个国家；
+
+income：样本的收入，这里的收入有大于50K和小于等于50K
